@@ -1,0 +1,5 @@
+requests
+docker
+pyfiglet
+termcolor
+progressbar2
